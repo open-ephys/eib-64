@@ -25,4 +25,4 @@ Manual](https://neuralynx.com/documents/EIB%20Pins%20Manual.pdf).
 - In order for the gold pins to properly fit in the designated vias, they must
   have a _plated_ inner diameter of 12±2 mil (0.3048±0.0508 mm). 
 
-![Required via diametersEIB-64 pinout](../resources/eib-64-pin-documentation_cropped.png)
+![Required via diametersEIB-64 pinout](../resources/eib-64_12-mil-holes.png)

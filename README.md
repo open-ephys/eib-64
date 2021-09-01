@@ -9,4 +9,3 @@ Drives](https://open-ephys.org/shuttledrive).
 - 1x electrical stimulator output
 
 ![EIB-64 revision 1.2](./resources/eib-64.png)
-![EIB-64 pinout](./resources/eib-64-pin-documentation_cropped.png)
