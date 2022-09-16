@@ -1,7 +1,7 @@
 # EIB-64
 64-channel electrode interface board (EIB) with electrical and optical
 stimulation. Designed for small animal (e.g. mouse) tetrode electrophysiology.
-Compatible with [ONIX 64-Channel Headstage]([../headstage-64/](https://github.com/open-ephys/onix-headstage-64) and [Shuttle
+Compatible with [ONIX 64-Channel Headstage](https://github.com/open-ephys/onix-headstage-64) and [Shuttle
 Drives](https://open-ephys.org/shuttledrive).
 
 - 64x electrophysiology channels
